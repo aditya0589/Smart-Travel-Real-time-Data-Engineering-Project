@@ -1,5 +1,4 @@
 # Smart-Travel-Real-time-Data-Engineering-Project
-Smart City Real-Time Data Streaming and Analytics
 This project implements a complete, end-to-end real-time data streaming pipeline for a smart city environment. It simulates various urban data streams (vehicles, traffic, weather, emergencies), ingests them using Apache Kafka, processes them with Apache Spark Streaming, and persists the data into Amazon S3 for subsequent analysis using AWS services.
 
 ## Project Goal
