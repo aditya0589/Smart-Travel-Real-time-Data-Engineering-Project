@@ -106,7 +106,7 @@ Execute the main.py script from your host machine. This connects to Kafka via lo
 Submit the spark-city.py application to the Spark Master using your local spark-submit. The --packages flag is crucial for ensuring the Kafka and AWS S3 connectors are available:
 <br>
 
-# Execute from your terminal, assuming spark-submit is in your PATH:
+## Execute from your terminal, assuming spark-submit is in your PATH:
 ```
 spark-submit \
     --master spark://localhost:7077 \
